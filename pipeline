@@ -1,0 +1,9 @@
+pipe line{
+ any agent
+     stages{
+    stages("hello")
+steps{
+echo("hello world")
+}
+}
+}
